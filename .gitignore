@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+# 本地环境/敏感配置
+.env
+.env.*
