@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/lifeOS/sw.js', { scope: '/lifeOS/' })})}
